@@ -161,3 +161,4 @@ C:\Users\afshi\source\repos\H4\App_I_2(New)\To-Do App\Planer\obj\Debug\net9.0\Pl
 C:\Users\afshi\source\repos\H4\App_I_2(New)\To-Do App\Planer\obj\Debug\net9.0\ref\Planer.dll
 C:\Users\afshi\source\repos\H4\App_I_2(New)\To-Do App\Planer\bin\Debug\net9.0\BCrypt.Net-Next.dll
 C:\Users\afshi\source\repos\H4\App_I_2(New)\To-Do App\Planer\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\afshi\source\repos\H4\App_I_2(New)\To-Do App\Planer\obj\Debug\net9.0\Planer.sourcelink.json

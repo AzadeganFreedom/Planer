@@ -3,40 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|c:\\users\\afshi\\source\\repos\\h4\\app_i_2(new)\\to-do app\\planermaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|c:\\users\\afshi\\source\\repos\\h4\\app_i_2(new)\\to-do app\\planermaui\\resources\\styles\\customstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|solutionrelative:resources\\styles\\customstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|c:\\users\\afshi\\source\\repos\\h4\\app_i_2(new)\\to-do app\\planermaui\\resources\\styles\\customstyles.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|solutionrelative:resources\\styles\\customstyles.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|c:\\users\\afshi\\source\\repos\\h4\\app_i_2(new)\\to-do app\\planermaui\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|solutionrelative:registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|c:\\users\\afshi\\source\\repos\\h4\\app_i_2(new)\\to-do app\\planermaui\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|solutionrelative:loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|c:\\users\\afshi\\source\\repos\\h4\\app_i_2(new)\\to-do app\\planermaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|c:\\users\\afshi\\source\\repos\\h4\\app_i_2(new)\\to-do app\\planermaui\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|solutionrelative:addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|c:\\users\\afshi\\source\\repos\\h4\\app_i_2(new)\\to-do app\\planermaui\\addpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|solutionrelative:addpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|c:\\users\\afshi\\source\\repos\\h4\\app_i_2(new)\\to-do app\\planermaui\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|solutionrelative:models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|c:\\users\\afshi\\source\\repos\\h4\\app_i_2(new)\\to-do app\\planermaui\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4332202C-756C-4411-90FD-1A0E6A504ABE}|PlanerMAUI.csproj|solutionrelative:registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomStyles.xaml",
-              "DocumentMoniker": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\Resources\\Styles\\CustomStyles.xaml",
-              "RelativeDocumentMoniker": "Resources\\Styles\\CustomStyles.xaml",
-              "ToolTip": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\Resources\\Styles\\CustomStyles.xaml",
-              "RelativeToolTip": "Resources\\Styles\\CustomStyles.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-19T01:46:14.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomStyles.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\Resources\\Styles\\CustomStyles.xaml.cs",
-              "RelativeDocumentMoniker": "Resources\\Styles\\CustomStyles.xaml.cs",
-              "ToolTip": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\Resources\\Styles\\CustomStyles.xaml.cs",
-              "RelativeToolTip": "Resources\\Styles\\CustomStyles.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T01:46:07.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "LoginPage.xaml.cs",
-              "ToolTip": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\LoginPage.xaml.cs",
-              "RelativeToolTip": "LoginPage.xaml.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAEwD8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T01:23:08.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\RegisterPage.xaml.cs",
-              "RelativeDocumentMoniker": "RegisterPage.xaml.cs",
-              "ToolTip": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\RegisterPage.xaml.cs",
-              "RelativeToolTip": "RegisterPage.xaml.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwDsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T23:38:20.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\Models\\Item.cs",
-              "RelativeDocumentMoniker": "Models\\Item.cs",
-              "ToolTip": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\Models\\Item.cs",
-              "RelativeToolTip": "Models\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T23:34:09.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddPage.xaml",
-              "DocumentMoniker": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\AddPage.xaml",
-              "RelativeDocumentMoniker": "AddPage.xaml",
-              "ToolTip": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\AddPage.xaml",
-              "RelativeToolTip": "AddPage.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-16T15:35:10.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "AddPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\AddPage.xaml.cs",
               "RelativeDocumentMoniker": "AddPage.xaml.cs",
               "ToolTip": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\AddPage.xaml.cs",
               "RelativeToolTip": "AddPage.xaml.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAADgvzMAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T15:33:30.011Z",
+              "WhenOpened": "2025-05-19T07:31:10.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\MainPage.xaml",
-              "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-15T06:38:35.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\MainPage.xaml.cs",
-              "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RegisterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\RegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "RegisterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\afshi\\source\\repos\\H4\\App_I_2(New)\\To-Do App\\PlanerMAUI\\RegisterPage.xaml.cs",
+              "RelativeToolTip": "RegisterPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T06:35:50.584Z",
+              "WhenOpened": "2025-05-19T07:22:06.594Z",
               "EditorCaption": ""
             }
           ]

@@ -951,3 +951,4 @@ C:\Users\afshi\source\repos\H4\App_I_2(New)\To-Do App\PlanerMAUI\obj\Debug\net9.
 C:\Users\afshi\source\repos\H4\App_I_2(New)\To-Do App\PlanerMAUI\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\afshi\source\repos\H4\App_I_2(New)\To-Do App\PlanerMAUI\obj\Debug\net9.0-android\android\assets\x86_64\Newtonsoft.Json.dll
 C:\Users\afshi\source\repos\H4\App_I_2(New)\To-Do App\PlanerMAUI\obj\Debug\net9.0-android\resizetizer\r\drawable\planer.png
+C:\Users\afshi\source\repos\H4\App_I_2(New)\To-Do App\PlanerMAUI\obj\Debug\net9.0-android\PlanerMAUI.sourcelink.json

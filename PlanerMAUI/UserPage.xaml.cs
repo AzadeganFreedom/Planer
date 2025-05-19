@@ -39,9 +39,6 @@ public partial class UserPage : ContentPage
     {
         base.OnAppearing();
 
-        mainLayout.Opacity = 0;
-        await mainLayout.FadeTo(1, 300);
-
         // Fill input fields with current user data
         var currentUser = SessionService.CurrentUser;
         if (currentUser != null)
@@ -50,6 +47,9 @@ public partial class UserPage : ContentPage
             emailEntry.Text = currentUser.Email;
             passwordEntry.Text = string.Empty;
         }
+
+        mainLayout.Opacity = 0;
+        await mainLayout.FadeTo(1, 1000);
     }
 
     // Edit user
@@ -72,7 +72,7 @@ public partial class UserPage : ContentPage
             {
                 await DisplayAlert("Succes", "you have succesfully edited your user!", "OK");
 
-                await mainLayout.FadeTo(0, 250);
+                await mainLayout.FadeTo(0, 500);
 
                 SessionService.CurrentUser.UserName = updateUser.UserName;
                 SessionService.CurrentUser.Email = updateUser.Email;
@@ -99,12 +99,13 @@ public partial class UserPage : ContentPage
 
     private async void OnCancelClicked(object sender, EventArgs e)
     {
+        await mainLayout.FadeTo(0, 500);
+
         // Clears the inputfields
         usernameEntry.Text = string.Empty;
         emailEntry.Text = string.Empty;
         passwordEntry.Text = string.Empty;
 
-        await mainLayout.FadeTo(0, 250);
         await Shell.Current.GoToAsync("//MainPage");
     }
 }

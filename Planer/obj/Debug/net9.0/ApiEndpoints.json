@@ -170,6 +170,22 @@
   },
   {
     "ContainingType": "Planer.API.Controllers.UserController",
+    "Method": "LoginAsync",
+    "RelativePath": "api/User/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "Planer.Models.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Planer.API.Controllers.UserController",
     "Method": "UpdateUserByUserNameAsync",
     "RelativePath": "api/User/UpdateUserByUserName",
     "HttpMethod": "PATCH",

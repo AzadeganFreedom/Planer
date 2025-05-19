@@ -38,7 +38,7 @@ public partial class ViewListPage : ContentPage
 
         mainLayout.Opacity = 0;
         await LoadListAsync();
-        await mainLayout.FadeTo(1, 300);
+        await mainLayout.FadeTo(1, 1000);
 
     }
 
@@ -109,7 +109,7 @@ public partial class ViewListPage : ContentPage
 
     private async void OnBackClicked(object sender, EventArgs e)
     {
-        await mainLayout.FadeTo(0, 250);
+        await mainLayout.FadeTo(0, 500);
 
         // Clears ItemsCollectionView
         ItemsCollectionView.ItemsSource = Array.Empty<Item>();

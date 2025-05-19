@@ -17,9 +17,6 @@ namespace PlanerMAUI
         {
             base.OnAppearing();
 
-            mainLayout.Opacity = 0;
-            mainLayout.FadeTo(1, 300);
-
             if (SessionService.CurrentUser != null)
             {
                 // Set page title to the username
@@ -35,6 +32,9 @@ namespace PlanerMAUI
 
             // Subscribe to orientation changes
             this.SizeChanged += OnSizeChanged;
+
+            mainLayout.Opacity = 0;
+            mainLayout.FadeTo(1, 1000);
         }
 
         private void AdjustLayoutForOrientation()
@@ -67,27 +67,27 @@ namespace PlanerMAUI
         // Navigate to ViewListPage
         private async void OnViewListClicked(object sender, EventArgs e)
         {
-            await mainLayout.FadeTo(0, 250);
+            await mainLayout.FadeTo(0, 500);
             await Shell.Current.GoToAsync("//ViewListPage");
         }
 
         // Navigate to AddPage
         private async void OnAddToListClicked(object sender, EventArgs e)
         {
-            await mainLayout.FadeTo(0, 250);
+            await mainLayout.FadeTo(0, 500);
             await Shell.Current.GoToAsync("//AddPage");
         }
 
         // Navigate to UserPage
         private async void OnEditUserClicked(object sender, EventArgs e)
         {
-            await mainLayout.FadeTo(0, 250);
+            await mainLayout.FadeTo(0, 500);
             await Shell.Current.GoToAsync("//UserPage");
         }
 
         private async void OnLogoutClicked(object sender, EventArgs e)
         {
-            await mainLayout.FadeTo(0, 250);
+            await mainLayout.FadeTo(0, 500);
             SessionService.CurrentUser = null;
 
             Shell.Current.FlyoutBehavior = FlyoutBehavior.Disabled;

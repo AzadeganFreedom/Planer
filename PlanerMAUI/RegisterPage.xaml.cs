@@ -41,7 +41,7 @@ public partial class RegisterPage : ContentPage
 
         // Make sure main layout is reset and slides in smoothly
         mainLayout.Opacity = 0;
-        mainLayout.FadeTo(1, 300);
+        await mainLayout.FadeTo(1, 1000);
     }
 
     private async void OnRegisterClicked(object sender, EventArgs e)
@@ -65,7 +65,7 @@ public partial class RegisterPage : ContentPage
                 emailEntry.Text = string.Empty;
                 passwordEntry.Text = string.Empty;
 
-                await mainLayout.FadeTo(0, 250);
+                await mainLayout.FadeTo(0, 500);
                 await Shell.Current.GoToAsync("///LoginPage");
             }
             else
@@ -87,7 +87,7 @@ public partial class RegisterPage : ContentPage
         emailEntry.Text = string.Empty;
         passwordEntry.Text = string.Empty;
 
-        await mainLayout.FadeTo(0, 250);
+        await mainLayout.FadeTo(0, 500);
         await Shell.Current.GoToAsync("///LoginPage");
     }
 }

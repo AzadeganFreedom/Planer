@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Planer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab2b2d51b98017dd906ee562f72d61f79c6f915c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Planer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Planer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

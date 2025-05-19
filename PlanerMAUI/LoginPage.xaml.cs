@@ -41,13 +41,18 @@ public partial class LoginPage : ContentPage
         base.OnAppearing();
 
         mainLayout.Opacity = 0;
-        mainLayout.FadeTo(1, 300);
+        await mainLayout.FadeTo(1, 1000);
     }
 
     // Navigate to Register Page
     private async void OnNavigateToRegister(object sender, EventArgs e)
     {
-        await mainLayout.FadeTo(0, 250);
+        await mainLayout.FadeTo(0, 500);
+
+        // Clears the inputfields
+        usernameEntry.Text = string.Empty;
+        passwordEntry.Text = string.Empty;
+
         await Shell.Current.GoToAsync("///RegisterPage");
     }
 
@@ -80,7 +85,7 @@ public partial class LoginPage : ContentPage
                 if (user != null)
                 {
                     // Fade out
-                    await mainLayout.FadeTo(0, 250);
+                    await mainLayout.FadeTo(0, 500);
 
                     // Store user in session service
                     SessionService.CurrentUser = user;

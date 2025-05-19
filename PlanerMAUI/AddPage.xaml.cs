@@ -38,12 +38,12 @@ public partial class AddPage : ContentPage
         base.OnAppearing();
 
         mainLayout.Opacity = 0;
-        mainLayout.FadeTo(1, 300);
+        mainLayout.FadeTo(1, 1000);
     }
 
     private async void OnCancelClicked(object sender, EventArgs e)
     {
-        await mainLayout.FadeTo(0, 250);
+        await mainLayout.FadeTo(0, 500);
         taskEntry.Text = string.Empty;
         await Shell.Current.GoToAsync("///MainPage");
     }
