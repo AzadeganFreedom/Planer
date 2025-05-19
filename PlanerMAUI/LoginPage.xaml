@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PlanerMAUI.LoginPage"
+             Title="Login">
+
+    <Grid RowDefinitions="*,Auto" Padding="24" RowSpacing="16">
+
+        <ScrollView Grid.Row="0">
+            <VerticalStackLayout x:Name="mainLayout" Spacing="32">
+                <Label Text="Please sign in!"
+                       FontSize="16"
+                       HorizontalOptions="Center"/>
+                <Entry x:Name="usernameEntry"
+                       Placeholder="Username"
+                       Style="{StaticResource InputField}"/>
+                <Entry x:Name="passwordEntry"
+                       Placeholder="Password"
+                       IsPassword="True"
+                       Style="{StaticResource InputField}"/>
+            </VerticalStackLayout>
+        </ScrollView>
+
+        <Grid Grid.Row="1" ColumnSpacing="20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Button 
+                Grid.Column="0"
+                Text="Login"
+                Style="{StaticResource PrimaryButton}"
+                Clicked="OnLoginClicked"/>
+
+            <Button 
+                Grid.Column="1"
+                Text="Register"
+                Style="{StaticResource SecondaryButton}"
+                Clicked="OnNavigateToRegister"/>
+        </Grid>
+    </Grid>
+</ContentPage>

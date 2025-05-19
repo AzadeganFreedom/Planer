@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="PlanerMAUI.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:PlanerMAUI"
+    Shell.FlyoutBehavior="Disabled"
+    Title="PlanerMAUI">
+
+    <ShellContent
+        Title="Login"
+        ContentTemplate="{DataTemplate local:LoginPage}"
+        Route="LoginPage"
+        Shell.FlyoutItemIsVisible="False" />
+
+    <ShellContent
+        Title="Register"
+        ContentTemplate="{DataTemplate local:RegisterPage}"
+        Route="RegisterPage" 
+        Shell.FlyoutItemIsVisible="False" />
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+    <ShellContent
+        Title="View List"
+        ContentTemplate="{DataTemplate local:ViewListPage}"
+        Route="ViewListPage" />
+
+    <ShellContent
+        Title="Add to List"
+        ContentTemplate="{DataTemplate local:AddPage}"
+        Route="AddPage" />
+
+    <ShellContent
+        Title="User"
+        ContentTemplate="{DataTemplate local:UserPage}"
+        Route="UserPage" />
+
+    <MenuItem
+    Text="Logout"
+    Clicked="OnLogoutClicked"
+    IsDestructive="True" />
+
+</Shell>

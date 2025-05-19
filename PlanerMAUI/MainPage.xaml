@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PlanerMAUI.MainPage"
+             Title="Planer">
+
+    <ScrollView>
+        <VerticalStackLayout x:Name="mainLayout" Padding="24,0,24,0" Spacing="32">
+            <Image
+                x:Name="hovercraftImage"
+                Source="planer.png"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="dot net bot in a hovercraft number nine" />
+
+            <Label
+                Text="What would you like to do today?"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+
+            <Grid ColumnSpacing="16" HorizontalOptions="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <Button x:Name="viewTasksButton"
+                        Grid.Column="0"
+                        WidthRequest="128"
+                        HeightRequest="96"
+                        Text="View Tasks"
+                        Clicked="OnViewListClicked" 
+                        Style="{StaticResource PrimaryButton}"/>
+
+                <Button x:Name="addTasksButton"
+                        Grid.Column="1"
+                        WidthRequest="128"
+                        HeightRequest="96"
+                        Text="Add Tasks"
+                        Clicked="OnAddToListClicked" 
+                        Style="{StaticResource SecondaryButton}"/>
+            </Grid>
+
+            <Grid ColumnSpacing="20" HorizontalOptions="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <Button x:Name="editUserButton"
+                        Grid.Column="0"
+                        WidthRequest="128"
+                        HeightRequest="96"
+                        Text="Edit User" 
+                        Clicked="OnEditUserClicked"
+                        Style="{StaticResource PrimaryButton}"/>
+
+                <Button x:Name="logoutButton"
+                        Grid.Column="1"
+                        WidthRequest="128"
+                        HeightRequest="96"
+                        Text="Logout" 
+                        Clicked="OnLogoutClicked" 
+                        Style="{StaticResource SecondaryButton}"/>
+            </Grid>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PlanerMAUI.AddPage"
+             Title="Add Task">
+
+    <Grid RowDefinitions="*,Auto" Padding="24" RowSpacing="16">
+
+        <ScrollView Grid.Row="0">
+            <VerticalStackLayout x:Name="mainLayout" Spacing="32">
+                <Label Text="Here you can write down tasks!"
+                       FontSize="16"
+                       HorizontalOptions="Center"/>
+                <Entry x:Name="taskEntry"
+                       Placeholder="Example: Do the Laundry!"
+                       Style="{StaticResource InputField}"/>
+            </VerticalStackLayout>
+        </ScrollView>
+
+        <Grid Grid.Row="1" ColumnSpacing="20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Button 
+                Grid.Column="0"
+                Text="Add"
+                Style="{StaticResource PrimaryButton}"
+                Clicked="OnAddClicked"/>
+
+            <Button 
+                Grid.Column="1"
+                Text="Cancel"
+                Style="{StaticResource SecondaryButton}"
+                Clicked="OnCancelClicked"/>
+        </Grid>
+    </Grid>
+</ContentPage>

@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net9.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PlanerMAUI
+build_property.ProjectDir = C:\Users\afshi\source\repos\H4\App_I_2(New)\To-Do App\PlanerMAUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTAotOptimizerEnabled = true
+build_property.CsWinRTAotExportsEnabled = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptIn = 
+build_property.CsWinRTRcwFactoryFallbackGeneratorForceOptOut = 
+build_property.CsWinRTCcwLookupTableGeneratorEnabled = true
+build_property.CsWinRTMergeReferencedActivationFactories = 
+build_property.CsWinRTAotWarningLevel = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/afshi/source/repos/H4/App_I_2(New)/To-Do App/PlanerMAUI/AddPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PlanerMAUI.AddPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AddPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AddPage.xaml
+
+[C:/Users/afshi/source/repos/H4/App_I_2(New)/To-Do App/PlanerMAUI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PlanerMAUI.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/afshi/source/repos/H4/App_I_2(New)/To-Do App/PlanerMAUI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PlanerMAUI.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/afshi/source/repos/H4/App_I_2(New)/To-Do App/PlanerMAUI/BlankPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PlanerMAUI.BlankPage.xaml
+build_metadata.AdditionalFiles.TargetPath = BlankPage.xaml
+build_metadata.AdditionalFiles.RelativePath = BlankPage.xaml
+
+[C:/Users/afshi/source/repos/H4/App_I_2(New)/To-Do App/PlanerMAUI/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PlanerMAUI.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = LoginPage.xaml
+
+[C:/Users/afshi/source/repos/H4/App_I_2(New)/To-Do App/PlanerMAUI/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PlanerMAUI.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/afshi/source/repos/H4/App_I_2(New)/To-Do App/PlanerMAUI/RegisterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PlanerMAUI.RegisterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = RegisterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = RegisterPage.xaml
+
+[C:/Users/afshi/source/repos/H4/App_I_2(New)/To-Do App/PlanerMAUI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PlanerMAUI.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/afshi/source/repos/H4/App_I_2(New)/To-Do App/PlanerMAUI/Resources/Styles/CustomStyles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PlanerMAUI.Resources.Styles.CustomStyles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\CustomStyles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\CustomStyles.xaml
+
+[C:/Users/afshi/source/repos/H4/App_I_2(New)/To-Do App/PlanerMAUI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PlanerMAUI.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/afshi/source/repos/H4/App_I_2(New)/To-Do App/PlanerMAUI/UserPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PlanerMAUI.UserPage.xaml
+build_metadata.AdditionalFiles.TargetPath = UserPage.xaml
+build_metadata.AdditionalFiles.RelativePath = UserPage.xaml
+
+[C:/Users/afshi/source/repos/H4/App_I_2(New)/To-Do App/PlanerMAUI/ViewListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PlanerMAUI.ViewListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewListPage.xaml
